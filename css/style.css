@@ -38,7 +38,7 @@ body {
 }
 /* Media Query */
 @media screen and (max-width: 991px) {
-    .navbar .navbar-nav .nav-link i {
+    .navbar .navbar-nav .nav-link svg {
       display: none;
     }
   }
